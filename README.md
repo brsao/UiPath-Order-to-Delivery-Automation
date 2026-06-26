@@ -47,3 +47,29 @@ This solution utilizes **Low-code Agents (UiPath API Workflows)** orchestrated b
 3. **Publish** the O2D BPMN process to UiPath Automation Cloud.
 4. Go to **Orchestrator** -> **Processes** and trigger the process, OR use the **Maestro** interface to start a new instance.
 5. Monitor the execution trail in real-time to see the order flow through validation, inventory check, payment, and shipping.
+
+
+## 📸 Screenshots
+
+### Full BPMN Workflow
+![BPMN Workflow Diagram](screenshot-bpmn-workflow.png)
+
+### Execution Trail
+![Execution Trail](screenshot-execution-trail.png)
+
+### Global Variables
+![Global Variables](screenshot-global-variables.png)
+
+### API Workflows
+
+**Check Inventory API:**
+![Check Inventory API](screenshot-check-inventory-api.png)
+
+**Process Payment API:**
+![Process Payment API](screenshot-process-payment-api.png)
+
+**Ship Order API:**
+![Ship Order API](screenshot-ship-order-api.png)
+
+**Send Notification API:**
+![Send Notification API](screenshot-send-notification-api.png)
