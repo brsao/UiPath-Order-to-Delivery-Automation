@@ -55,11 +55,9 @@ This solution utilizes **Low-code Agents (UiPath API Workflows)** orchestrated b
 ![BPMN Workflow Diagram](screenshot-bpmn-workflow.png)
 
 ### API Workflows
-
 **Check Inventory API:**
 
-![Check Inventory API]
-(screenshot-check-inventory-api.png)
+![Check Inventory API](screenshot-check-inventory-api.png)
 
 **Process Payment API:**
 
