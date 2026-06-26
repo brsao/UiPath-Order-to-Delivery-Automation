@@ -57,13 +57,21 @@ This solution utilizes **Low-code Agents (UiPath API Workflows)** orchestrated b
 ### API Workflows
 
 **Check Inventory API:**
-![Check Inventory API](screenshot-check-inventory-api.png)
+
+![Check Inventory API]
+(screenshot-check-inventory-api.png)
 
 **Process Payment API:**
-![Process Payment API](screenshot-process-payment-api.png)
+
+![Process Payment API]
+(screenshot-process-payment-api.png)
 
 **Ship Order API:**
-![Ship Order API](screenshot-ship-order-api.png)
+
+![Ship Order API]
+(screenshot-ship-order-api.png)
 
 **Send Notification API:**
-![Send Notification API](screenshot-send-notification-api.png)
+
+![Send Notification API]
+(screenshot-send-notification-api.png)
