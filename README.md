@@ -54,12 +54,6 @@ This solution utilizes **Low-code Agents (UiPath API Workflows)** orchestrated b
 ### Full BPMN Workflow
 ![BPMN Workflow Diagram](screenshot-bpmn-workflow.png)
 
-### Execution Trail
-![Execution Trail](screenshot-execution-trail.png)
-
-### Global Variables
-![Global Variables](screenshot-global-variables.png)
-
 ### API Workflows
 
 **Check Inventory API:**
